@@ -65,6 +65,3 @@ To evaluate a script from a file, use the -f flag followed by the file path:
 ```bash
 eva -f "path/to/your/file.eva"
 ```
-
-
-You can copy this directly into your README file to show how users can use the EVA language and provide examples to test.
